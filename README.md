@@ -122,15 +122,15 @@ In this project, I:
 
 ### Business Requirements Document
 
-[View the Business Requirements Document](BRD/Scrappy_Compost_Business_Requirements_Document.pdf)
+[View the Business Requirements Document](BRD/Scrappy_Compost_BRD_Completed_Pages.docx.pdf)
 
 ### Process Flow
 
-[View the Customer Acquisition Process Flow](diagrams/customer-acquisition-flow.png)
+[View the Customer Acquisition Process Flow](diagrams/New Delivery Customer Acquisition Flowchart.png)
 
 ### Domain Model
 
-[View the Domain Model](diagrams/domain-model.png)
+[View the Domain Model](diagrams/Scrappy Compost Website Domain Model.png)
 
 ---
 
