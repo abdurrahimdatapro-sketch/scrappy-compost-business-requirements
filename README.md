@@ -126,11 +126,11 @@ In this project, I:
 
 ### Process Flow
 
-[View the Customer Acquisition Process Flow](diagrams/New Delivery Customer Acquisition Flowchart.png)
+[View the Customer Acquisition Process Flow](diagrams/diagrams/New Delivery Customer Acquisition Flowchart.png)
 
 ### Domain Model
 
-[View the Domain Model](diagrams/Scrappy Compost Website Domain Model.png)
+[View the Domain Model](diagrams/diagrams/Scrappy Compost Website Domain Model.png)
 
 ---
 
